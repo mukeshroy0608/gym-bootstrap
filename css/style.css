@@ -1,7 +1,7 @@
 body{
     margin: auto;
 }
-.top-header{
+header{
     background-color: black;
 }
 .logo-title{
@@ -40,3 +40,26 @@ body{
     color: rgb(255, 30, 0);
     cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/sad.png"), auto;
 }
+.main-header-frist-colum{
+    padding-top: 2.045in;
+    padding-left: .655in;
+}
+.main-header-first-para{
+    color: #f30407;
+}
+.main-header-heading{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.main-header-second-para{
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px;
+    color: rgb(196, 205, 205);
+    font-family: 'Poppins', sans-serif;
+}
+/* .learn-btn:hover{
+    background-color: blue;
+    cursor: pointer;
+} */
